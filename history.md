@@ -19,3 +19,5 @@ python /usr/local/bin/display_manager.py res 1920 1080 60 main
 ```
 
 ![setup quick action](https://github.com/thomstratton/harp-screenFix/blob/main/set%20up%20automator%20quick%20action%20-%201.png?raw=true)
+
+![set keyboard shortcut](https://github.com/thomstratton/harp-screenFix/blob/main/set%20keyboard%20shortcut.png?raw=true)
